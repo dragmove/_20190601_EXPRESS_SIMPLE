@@ -1,0 +1,23 @@
+{
+  "name": "dragmove.xyz",
+  "version": "0.1.0",
+  "description": "dragmove.xyz",
+  "engines": {
+    "node": "10.15.3",
+    "npm": "6.9.0"
+  },
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {},
+  "author": {
+    "name": "Hyun-Seok.Kim",
+    "email": "dragmove@gmail.com",
+    "url": "http://dragmove.xyz"
+  },
+  "license": "MIT",
+  "repository": {},
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "devDependencies": {}
+}
